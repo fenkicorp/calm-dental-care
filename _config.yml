@@ -30,6 +30,14 @@ theme: minima
 plugins:
   - jekyll-feed
 show_excerpts: true
+
+header_pages:
+  - dental.md
+  - facial-aesthetics.md
+  - orofacial-pain.md
+  - blog.md
+  - contact.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
