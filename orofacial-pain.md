@@ -3,7 +3,7 @@ layout: page
 title: Orofacial Pain
 permalink: /orofacial-pain/
 ---
-## Orofacial Pain and Temporomandibular Disorders
+# Orofacial Pain and Temporomandibular Disorders
 
 Charles and Cathleen have a special interest in working with patients suffering from Temporomandibular Disorders and Orofacial pain.
 
