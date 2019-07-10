@@ -1,8 +1,8 @@
 ---
 name: Emma Stanley
-description: Our principal dentist is Charles Crawford BDS MSc MFGDP(UK) PGCertT&L. Charles is originally from Yorkshire but after studying at Manchester University he decided to stay here! As well as practicing at Calm Dental, Charles spends some time back at the University tutoring students and working on the TMD clinic for patients with jaw joint pain.
-title: Dental Nurse & Student Therapist
+description: She started with us as a trainee dental nurse and she is now training to become a Dental Therapist!
+title: Compliance Manager, Dental Nurse & Student Therapist
 image: /assets/team/es.jpg
 order: 1
-qualifications: BDS MSc MFGDP(UK) PGCertT&L
+qualifications:
 ---

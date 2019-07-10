@@ -1,7 +1,7 @@
 ---
-name: Sophie
-description: Our principal dentist is Charles Crawford BDS MSc MFGDP(UK) PGCertT&L. Charles is originally from Yorkshire but after studying at Manchester University he decided to stay here! As well as practicing at Calm Dental, Charles spends some time back at the University tutoring students and working on the TMD clinic for patients with jaw joint pain.
-title: Foundation Dentist
+name: Anna
+description:  Our therapist carries out fillings and hygiene treatment.  Giving patients fresh breath and healthy gums are her trademarks!
+title: Dental Therapist
 image: /assets/team/sf.jpg
 order: 7
 qualifications: BDS MSc MFGDP(UK) PGCertT&L
