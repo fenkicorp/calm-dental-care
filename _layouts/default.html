@@ -23,10 +23,13 @@
     {%- assign default_paths = site.pages | map: "path" -%} {%- assign page_paths = site.header_pages | default: default_paths -%}
 
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div class="container">
                 <a href="/" class="navbar-brand mb-0 h1">
-                    <i class="fas fa-tooth fa-lg animated jackInTheBox"></i><span class="ml-2">{{site.title}}</span>
+                    <i class="fas fa-tooth fa-lg animated jackInTheBox"></i>
+                    <span class="ml-2">
+                      <span style="color:red">calm</span><span style="color:#444">care</span><span style="color:red">dental</span>
+                    </span>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
