@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Dental Team
-permalink: /dental/team/
+permalink: /about/team/
 ---
 Dental Team

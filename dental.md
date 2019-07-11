@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Dental
-permalink: /dental/
+title: About
+permalink: /about/
 ---
-
-dental
 
 
 [Meet the team](team)

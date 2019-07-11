@@ -34,7 +34,7 @@ plugins:
 show_excerpts: true
 
 header_pages:
-  - dental.md
+  - about.md
   - facial-aesthetics.md
   - orofacial-pain.md
   - blog.md

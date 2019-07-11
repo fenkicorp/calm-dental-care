@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dental Team
-permalink: /dental/team/
+permalink: /about/team/
 ---
 
 <div class="row mt-5">
