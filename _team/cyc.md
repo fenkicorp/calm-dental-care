@@ -2,7 +2,7 @@
 name: Chay Bryne
 description:
 title: Dental Nurse
-image: /assets/team/cyc.jpg
+image: /assets/team/chay.jpg
 order: 1
 qualifications:
 ---
