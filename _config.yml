@@ -35,8 +35,10 @@ show_excerpts: true
 
 header_pages:
   - about.md
-  - facial-aesthetics.md
-  - orofacial-pain.md
+  - treatment.md
+  - fees.md
+  - newpts.md
+  - fordent.md
   - blog.md
   - contact.md
 

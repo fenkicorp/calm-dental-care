@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Facial Aesthetics
-permalink: /facial-aesthetics/
+title: Treatmentss
+permalink: /treatments/
 ---
 
 
