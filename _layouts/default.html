@@ -26,7 +26,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div class="container">
                 <a href="/" class="navbar-brand mb-0 h1">
-                    <i class="fas fa-tooth fa-lg animated jackInTheBox"></i>
+                    <i class="fab fa-envira fa-lg animated jackInTheBox"></i>
                     <span class="ml-2">
                       <span style="color:#9FC2BF">calm</span><span style="color:#5a9296">dental</span><span style="color:#9FC2BF">care</span>
                     </span>
@@ -46,7 +46,7 @@
 
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 
-                                {% assign orderedTreatments = site.treatmentss | sort:"order"%}
+                                {% assign orderedTreatments = site.treatments | sort:"order"%}
                                 {% for t in orderedTreatments %}
                                 <a class="dropdown-item {% if page.url == t.url %}active{% endif %}" href="{{t.url}}">
                                  <span class="badge badge-dark text-right">{{ t.titletag }}</span>  {{t.title}}
@@ -104,7 +104,7 @@
             </div>
             <div class="row pt-1 pb-5 text-center">
                 <div class="col-12">
-                    <small>Copyright &copy; {{ 'now' | date: "%Y" }} - {{site.title}} | Designed by <a href="http://pjmsoftwaresolutions.com">PJM Software Solutions Ltd</a></small>
+                    <small>Copyright &copy; {{ 'now' | date: "%Y" }} - {{site.title}} | Designed by <a href="http://pjmsoftwaresolutions.com">PJM Software Solutions Ltd</a> and <a href="http://kjmistry.co.uk">KJM</a></small>
                 </div>
             </div>
         </footer>
