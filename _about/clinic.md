@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Our Clinic
+title: The Clinic
 permalink: /about/clinic/
+order: 2
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: Dental Team
 permalink: /about/team/
+order: 3
 ---
 
 <div class="row mt-5">

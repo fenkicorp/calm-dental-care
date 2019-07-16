@@ -8,21 +8,8 @@ tags: [2,3]
 titletag:
 ---
 
-<div class="row">
-  <div class="col-md-6">
-    <figure class="figure">
-      <img src="/images/fiona/1d.jpg" class="figure-img img-fluid rounded" alt="...">
-      <figcaption class="figure-caption text-center">Patient was not happy with upper central incisor length.</figcaption>
-    </figure>
+We can help restore your mouth to full function with dental implants.  They don’t drop out like dentures can, and won’t damage your natural teeth like bridgework does.  They really are fantastic!
 
-  </div>
+At Calm Dental Care we place implants made by Dentsply (Ankylos and Astra), Bredent and Adin Implants.
 
-  <div class="col-md-6">
-    <figure class="figure">
-      <img src="/images/fiona/2.jpg" class="figure-img img-fluid rounded" alt="...">
-      <figcaption class="figure-caption text-center">To aid in consent, GIMP software was used to digitally modify upper centrals until treatment plan was agreed by patient.</figcaption>
-    </figure>
-
-  </div>
-
-</div>
+If you would like to find out more about this treatment why not book an appointment to talk about it with the dentist? 
