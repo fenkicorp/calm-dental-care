@@ -3,7 +3,9 @@ layout: page
 title: Fees
 permalink: /fees/
 ---
+
 <h4>NHS Charges</h4>
+
 <table class="table">
   <thead>
     <tr>
@@ -119,4 +121,4 @@ permalink: /fees/
   </tbody>
 </table>
 
-Please note, in the case of private dental care we reserve the right to charge for failed appointments (where less than 24hrs notice is given).  These will be charged at a rate of £1 per minute of lost appointment time
+<p>Please note, in the case of private dental care we reserve the right to charge for failed appointments (where less than 24hrs notice is given).  These will be charged at a rate of £1 per minute of lost appointment time </p>
