@@ -1,7 +1,7 @@
 ---
 layout: treatment
 title: Implants
-description: Example of building composites through GIMP software
+description: 
 permalink: /treatments/implants/
 order: 6
 tags: [2,3]
@@ -12,4 +12,4 @@ We can help restore your mouth to full function with dental implants.  They donâ
 
 At Calm Dental Care we place implants made by Dentsply (Ankylos and Astra), Bredent and Adin Implants.
 
-If you would like to find out more about this treatment why not book an appointment to talk about it with the dentist? 
+If you would like to find out more about this treatment why not book an appointment to talk about it with the dentist?
