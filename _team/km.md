@@ -1,8 +1,8 @@
 ---
 name: Kishan Mistry
-description: Our principal dentist is Charles Crawford BDS MSc MFGDP(UK) PGCertT&L. Charles is originally from Yorkshire but after studying at Manchester University he decided to stay here! As well as practicing at Calm Dental, Charles spends some time back at the University tutoring students and working on the TMD clinic for patients with jaw joint pain.
+description: Following graduation from UCLAN, Kish has developed an interest in digital dentistry. He's always looking for opportunities to implement CADCAM into treatment! Before dentistry, he had worked as a community pharmacist for seven years.
 title: Associate Dentist
-image: /assets/team/km1.jpg
+image: /assets/team/km2.jpg
 order: 5
 qualifications: MPharm BDS
 ---
