@@ -1,6 +1,6 @@
 ---
 layout: treatment
-title: Cosmetic
+title: Cosmetic Dentistry
 description: Example of building composites through GIMP software
 permalink: /treatments/cosmetic/
 order: 3
