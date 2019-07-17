@@ -4,5 +4,5 @@ description: Combines working at Calm with research he is doing at Manchester Un
 title: Associate Dentist
 image: /assets/team/mb3.jpg
 order: 4
-qualifications: BDS MSc MFGDP(UK) PGCertT&L
+qualifications: BChD BA MFDS
 ---

@@ -8,7 +8,7 @@ order: 3
 <div class="row mt-5">
 
   {% for member in site.team %}
-  <div class="col-4">
+  <div class="col-lg-4">
     <div class="card">
       <img class="card-img-top animated fadeIn" src="{{ member.image }}" alt="Card image">
       <div class="card-body">
