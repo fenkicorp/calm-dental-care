@@ -50,6 +50,8 @@ collections:
     output: true
   fees:
     output: true
+  clinicrooms:
+    output: false
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

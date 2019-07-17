@@ -81,6 +81,22 @@
                                   {% endfor %}
                               </div>
                             </li>
+                            {%- elsif my_page.title == "Fees" -%}
+                              <li class="nav-item dropdown {% if page.url contains '/fees/'  %}active{% endif %}">
+                                  <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                      <i class="{{my_page.icon}}"></i>&nbsp;&nbsp; {{ my_page.title | escape }}
+                                  </a>
+
+                                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                                      {% assign orderedTreatments = site.fees | sort:"order"%}
+                                      {% for t in orderedTreatments %}
+                                      <a class="dropdown-item {% if page.url == t.url %}active{% endif %}" href="{{t.url}}">
+                                       <span class="badge badge-dark text-right">{{ t.titletag }}</span>  {{t.title}}
+                                      </a>
+                                      {% endfor %}
+                                  </div>
+                                </li>
                           {%- else -%}
 
                         <li class="nav-item {% if page.url == my_page.url %}active{% endif %}">

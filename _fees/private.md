@@ -4,8 +4,10 @@ title: Private Charges
 permalink: /fees/private/
 order: 2
 ---
+
 <h4>Private Charges</h4>
 
+<p>
 <table class="table">
   <thead>
     <tr>
@@ -19,6 +21,7 @@ order: 2
       <th scope="row">Pure Calm Dental Examination</th>
       <td>£36 (free within our plan)</td>
       <td>This covers everything listed in Bands 1 and 2 above, plus crowns, dentures, bridges and other laboratory work.</td>
+      </tr>
     <tr>
       <th scope="row">Tooth coloured fillings on back teeth</th>
       <td>£85 - £150</td>
@@ -86,5 +89,7 @@ order: 2
     </tr>
   </tbody>
 </table>
+</p>
+<hr />
 
 <p>Please note, in the case of private dental care we reserve the right to charge for failed appointments (where less than 24hrs notice is given).  These will be charged at a rate of £1 per minute of lost appointment time </p>
