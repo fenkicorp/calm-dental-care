@@ -30,3 +30,34 @@ Risks are very minor with using Botox in facial aesthetics as it is injected in 
 
 
 If you are considering using Botox and/or fillers for the first time we’d highly recommend booking a Free consultation with Dr Liam Wilson, Dr Matthew Kitchen, or Anna Lewis where you can talk through all of your concerns and questions and have reassurance that you can have the result you want in a 'no-pressure to proceed’ environment.
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Treatment</th>
+      <th scope="col">Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Botox 1 area</th>
+      <td>£150</td>
+    </tr>
+    <tr>
+      <th scope="row">Botox 2 areas</th>
+      <td>£200</td>
+    </tr>
+    <tr>
+      <th scope="row">Botox 3 areas</th>
+      <td>£250</td>
+    </tr>
+    <tr>
+      <th scope="row">Fillers</th>
+      <td>from £240</td>
+    </tr>
+    <tr>
+      <th scope="row">Teeth Whitening</th>
+      <td>£250</td>
+    </tr>
+  </tbody>
+</table>

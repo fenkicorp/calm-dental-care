@@ -4,5 +4,5 @@ description:  Our therapist carries out fillings and hygiene treatment.  Giving 
 title: Dental Therapist
 image: /assets/team/anna.jpg
 order: 7
-qualifications: BDS MSc MFGDP(UK) PGCertT&L
+qualifications: DipDH DipDT
 ---
