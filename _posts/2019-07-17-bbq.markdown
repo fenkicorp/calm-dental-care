@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Calm BBQ"
+date:   2019-07-05 19:20:39 +0100
+categories: jekyll update
+draft: true
+---
+
+<div class="row">
+
+  <div class="col-lg-6">
+    <figure class="figure">
+      <img src="/assets/post/bbq.jpeg" class="figure-img img-fluid rounded" alt="...">
+      <figcaption class="figure-caption text-center">
+          Another successful annual barbeque! A gazebo saved us from the rain!
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="col-lg-6">
+    <figure class="figure">
+      <img src="/assets/post/ccbbq.jpeg" class="figure-img img-fluid rounded" alt="...">
+      <figcaption class="figure-caption text-center">
+          The Boss managing grill duties
+
+      </figcaption>
+    </figure>
+  </div>
+
+
+
+</div>
