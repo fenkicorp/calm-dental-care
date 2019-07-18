@@ -1,7 +1,7 @@
 ---
 layout: page
-title: For Dentists
-permalink: /dentists/
+title: Referrals
+permalink: /referrals/
 description: Info for referring dentists
 ---
 ef

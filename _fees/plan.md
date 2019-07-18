@@ -7,7 +7,7 @@ order: 3
 
 Pure Calm is our private dental service. Using the latest technology and operating in more relaxed appointment times we can deliver the very best level of care.
 
-A payment plan (£11.50 per month) provides you with dental examinations, hygiene appointments, insurance and a 20% discount off the cost of treatment. To sign up simply call into the practice to fill in a registration form, or download the <a href="{{ site.baseurl }}/assets/form.pdf" target="_blank">registration form</a> and post it on to us.
+A payment plan (£11.50 per month) provides you with dental examinations, hygiene appointments, insurance and a 20% discount off the cost of treatment. To sign up simply call into the practice to fill in a registration form, or download the <a href="{{ site.baseurl }}/assets/form.pdf" target="blank">registration form</a> and post it on to us.
 
 <h3>Membership Plan</h3>
 
