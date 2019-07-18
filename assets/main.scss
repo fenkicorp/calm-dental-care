@@ -9,6 +9,13 @@ $dark: #9FC2BF;
 $primary:       #5a9296;
 $secondary:      #9FC2BF;
 $headings-color:              $primary;
+
+@media (min-width: 1000px) and (max-width: 1200px) {
+   .collapse {
+       display: none !important;
+   }
+}
+
 @import 'bootstrap';
 @import 'timeline';
 

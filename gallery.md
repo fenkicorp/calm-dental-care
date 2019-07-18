@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Smile Gallery
+title: Gallery
 permalink: /gallery/
 description: A sample of some photos
 ---

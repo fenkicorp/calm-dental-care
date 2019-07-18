@@ -24,6 +24,7 @@ info@calmdentalcare.co.uk
 
 ## Opening Times
 
+{:.table}
 | ------------- |:-------------:| -----:|
 | Monday      | 8:30 | 18:00 |
 | Tuesday      | 8:30      |   17:30 |
@@ -33,8 +34,8 @@ info@calmdentalcare.co.uk
 | Saturday | Closed     |    Closed |
 | Sunday | Closed | Closed |
 
-If you require emergency treatment during the week, call our reception at the earliest opportunity and we'll do our best to see you the same day. Over the weekend call the NHS out of hours emergency number on 0161 337 2246.
+<p>If you require emergency treatment during the week, call our reception at the earliest opportunity and we'll do our best to see you the same day. Over the weekend call the NHS out of hours emergency number on 0161 337 2246.</p>
 
-If you wish to make a complaint our procedure can be found [here](complaints)
+<p>If you wish to make a complaint our procedure can be found [here](complaints)</p>
 
-The way we look after your information and protect your confidentiality is <a href="{{ site.baseurl }}/assets/privacy.pdf" target="_blank">here</a>
+<p>The way we look after your information and protect your confidentiality is <a href="{{ site.baseurl }}/assets/privacy.pdf" target="blank">here</a></p>
