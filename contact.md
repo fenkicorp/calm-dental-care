@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: How to contact us
 permalink: /contact/
 ---
 Telephone 0161 747 6841

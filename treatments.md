@@ -2,6 +2,7 @@
 layout: page
 title: Treatments
 permalink: /treatments/
+description: A few treatments we offer
 ---
 ## Treatments
 

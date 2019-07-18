@@ -2,6 +2,7 @@
 layout: page
 title: Smile Gallery
 permalink: /gallery/
+description: A sample of some photos
 ---
 
 <script src="https://cdn.lightwidget.com/widgets/lightwidget.js">
