@@ -22,6 +22,9 @@ gem 'bootstrap', '~> 4.2.1'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-sitemap", "~> 1.2.0"
+  gem "jekyll-seo-tag"
+  #gem 'jekyll-picture-tag', git: 'https://github.com/robwierzbowski/jekyll-picture-tag/'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
