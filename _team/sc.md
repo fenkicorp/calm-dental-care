@@ -4,5 +4,5 @@ description:
 title: Dental Nurse
 image: /assets/team/sc1.jpg
 order: 1
-qualifications:
+qualifications: Level 3 Dental Decontamination
 ---
