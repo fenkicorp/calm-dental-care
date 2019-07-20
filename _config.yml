@@ -16,7 +16,13 @@
 title: Calm Dental Care
 email: info@calmdentalcare.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Smile with confidence!
+  Calm Dental Care
+  <br>
+  132c Flixton Road, Urmston, Manchester M41 5BG
+  <br>
+  Telephone 0161 747 6841
+  <br>
+  info@calmdentalcare.co.uk
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://calmdental.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
