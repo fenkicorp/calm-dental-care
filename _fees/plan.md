@@ -58,12 +58,8 @@ If you choose to leave the plan for any reason, you can do so by simply giving u
 
 You will have access to a 24 hour, 365 day worldwide dental emergency helpline, which will endeavour to find an English speaking dentist to assist you.
 
-<h3>Any questions?</h3>
-
-If you have any questions about our plan, please contact our reception team who will be happy to provide further information and guidance.
 
 
-<p class="font-italic">Terms within this page are subject to change without notice</p>
 
 <h3>What does the supplementary insurance cover?</h3>
 
@@ -79,3 +75,9 @@ The supplementary insurance is designed to cover the cost of temporary emergency
 In the event of a dentary injury, treatment carried out by any dentist (including your own dentist) is covered up to policy limits.
 
 Please refer to the Policy Summary and Important Information leaflet and the Policy for full details of the benefits, terms, conditions and exclusions.
+
+<h3>Any questions?</h3>
+
+If you have any questions about our plan, please contact our reception team who will be happy to provide further information and guidance.
+
+<p class="font-italic">Terms within this page are subject to change without notice</p>

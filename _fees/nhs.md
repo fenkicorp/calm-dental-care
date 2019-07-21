@@ -52,7 +52,7 @@ You're also entitled if you or your partner – including civil partner – rece
 * Income Support
 * Income-based Jobseeker's Allowance
 * Pension Credit Guarantee Credit
-* Universal Credit and meet the criteria
+* <a href="https://www.nhs.uk/using-the-nhs/help-with-health-costs/help-with-health-costs-for-people-getting-universal-credit/" target="blank">Universal Credit</a> and meet the criteria
 
 If you're entitled to or named on:
 
@@ -66,9 +66,9 @@ You won't be exempt from paying because you receive Incapacity Benefit, contribu
 Medical conditions don't exempt patients from payment for dental treatment. You'll be asked to show your dentist written proof that you don't have to pay for all or part of your NHS treatment. You will also be asked to sign a form to confirm that you don't have to pay.
 
 <h4>Exemption for pregnant women</h4>
-Pregnant women and women who have had a baby in the last 12 months get free NHS dental treatment. You may have to show proof, such as a maternity exemption certificate (MatEx), a maternity certificate (MATB1), or your baby's birth certificate.
+Pregnant women and women who have had a baby in the last 12 months get free NHS dental treatment. You may have to show proof, such as a <a href="https://www.nhsbsa.nhs.uk/exemption-certificates/medical-exemption-certificates" target="blank">maternity exemption certificate (MatEx)</a>, a maternity certificate (MATB1), or your baby's birth certificate.
 
-If you gave birth more than 12 months ago, you won't be entitled to free NHS dental treatment. The MatEx only gives exemption from NHS prescriptions.
+If you gave birth more than 12 months ago, you won't be entitled to free NHS dental treatment. The MatEx only gives exemption from <a href="https://www.nhs.uk/using-the-nhs/help-with-health-costs/get-help-with-prescription-costs/" target="blank"> NHS prescriptions</a>.
 
 <h4>How can I claim a refund?</h4>
 
@@ -76,8 +76,8 @@ You can't claim a refund for the cost of private dental treatment or sundry item
 
 If you had a mixture of NHS and private treatment, you can only get a refund for charges that were part of your NHS treatment.
 
-Ask your dentist for the NHS receipt form FP64, or a receipt that shows the total NHS charge and the date you paid. You'll also need the HC5 (D) refund claim form for dental charges (PDF, 59kb), on which you'll need to explain why you're claiming a refund.
+Ask your dentist for the NHS receipt form FP64, or a receipt that shows the total NHS charge and the date you paid. You'll also need the <a href="https://assets.nhs.uk/prod/documents/HC5D_V10_online_10.2018.pdf" target="blank"> HC5 (D) refund claim form for dental charges</a>, on which you'll need to explain why you're claiming a refund.
 
 Enclose your original receipt, and make sure you include your full name and the address of your dentist, and post it to the address stated on the form.
 
-If you're on a low income and find it difficult to pay the charge, you can apply to the NHS Low Income Scheme. You can submit a claim for a refund at the same time as you apply to the Low Income Scheme. Refund claims must be submitted within three months of the date on which you paid.
+If you're on a low income and find it difficult to pay the charge, you can apply to the <a href="https://www.nhs.uk/using-the-nhs/help-with-health-costs/nhs-low-income-scheme-lis/" target="blank"> NHS Low Income Scheme</a>. You can submit a claim for a refund at the same time as you apply to the Low Income Scheme. Refund claims must be submitted within three months of the date on which you paid.
