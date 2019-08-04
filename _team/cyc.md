@@ -2,7 +2,7 @@
 name: Chay
 description:
 title: Dental Nurse
-image: /assets/team/chay1-01.jpeg
+image: /assets/team/chay2.jpg
 order: 1
-qualifications: Level 3 Dental Decontamination
+qualifications: Level 3 Dental Decontamination & Dental Radiography
 ---
