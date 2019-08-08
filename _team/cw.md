@@ -1,5 +1,5 @@
 ---
-name: Claire
+name: Claire Whittaker
 description:
 title: Dental Nurse
 image: /assets/team/cw2.jpg
